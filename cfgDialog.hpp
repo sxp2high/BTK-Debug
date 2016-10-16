@@ -6,12 +6,10 @@
 #define GUI_GRID_HAbs	(1)
 
 
-/*
 class RscText;
 class IGUIBack;
 class RscButton;
 class RscEdit;
-*/
 
 
 class btk_debug_dialog {

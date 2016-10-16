@@ -4,7 +4,7 @@ waitUntil {(isDedicated) || !(isNull player)};
 
 // Variables
 _addonTitle = "BTK Debug";
-_addonVersion = "3.0.3";
+_addonVersion = "1.0.0";
 _addonLink = "https://github.com/sxp2high/BTK-Debug";
 
 
